@@ -1,8 +1,8 @@
 # pathfinder
 
 
-<h1 align="center"> Get Cookin </h1>
-<h3 align="center"> A recipe-finding web app designed for mobile phones </h3> <br>
+<h1 align="center"> Pathfinder </h1>
+<h3 align="center"> An app that demonstrates Dijkstra's famous pathfinding algorithm </h3> <br>
 
 ![login](https://user-images.githubusercontent.com/36552486/224495383-f33e9a99-f736-4de9-85b6-5392f2d551f6.gif)
 ![search](https://user-images.githubusercontent.com/36552486/224505807-47540f89-0e3e-475b-97b1-143f8e5e58bc.gif)
